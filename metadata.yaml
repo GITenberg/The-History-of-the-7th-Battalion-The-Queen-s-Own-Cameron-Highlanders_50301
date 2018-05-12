@@ -1,4 +1,8 @@
 _repo: The-History-of-the-7th-Battalion-The-Queen-s-Own-Cameron-Highlanders_50301
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50301-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Sandilands, Col. J. W.
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45808'
     url: http://www.gutenberg.org/2009/agents/45808
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50301#The-History-of-the-7th-Battalion-The-Queen-s-Own-Cameron-Highlanders
 gutenberg_issued: '2015-10-25'
 gutenberg_type: Text
 identifiers:
