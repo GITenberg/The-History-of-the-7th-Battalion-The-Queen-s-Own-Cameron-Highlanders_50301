@@ -22,5 +22,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The History of the 7th Battalion The Queen's Own Cameron Highlanders
 url: http://www.gutenberg.org/ebooks/50301
